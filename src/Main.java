@@ -14,5 +14,8 @@ public class Main {
         }else{
             System.out.println("Two numbers is equal");
         }
+        for(int i=0;i<10;i++){
+            System.out.println("Hello "+i+"times");
+        }
     }
 }
